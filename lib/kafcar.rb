@@ -1,5 +1,5 @@
 require "kafcar/version"
+require "kafcar/client"
 
 module Kafcar
-  # Your code goes here...
 end
