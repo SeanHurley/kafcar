@@ -1,6 +1,6 @@
 # Kafcar
 
-TODO: Write a gem description
+A ruby client for interfacing with kafka
 
 ## Installation
 

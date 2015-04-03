@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Kafcar::VERSION
   spec.authors       = ["hurley"]
   spec.email         = ["sean.hurley6@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{A ruby client for talking to kafka}
+  spec.description   = %q{A super awesome ruby client for talking to kafka}
+  spec.homepage      = "https://github.com/SeanHurley/kafcar"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
